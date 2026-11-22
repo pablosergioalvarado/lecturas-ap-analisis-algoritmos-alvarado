@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <BaseOutputPath>$(TEMP)\AlumbradoPublico_MedicionH2\bin\</BaseOutputPath>
+    <BaseIntermediateOutputPath>$(TEMP)\AlumbradoPublico_MedicionH2\obj\</BaseIntermediateOutputPath>
+    <MSBuildProjectExtensionsPath>$(TEMP)\AlumbradoPublico_MedicionH2\obj\</MSBuildProjectExtensionsPath>
+  </PropertyGroup>
+  <Import Project="Sdk.props" Sdk="Microsoft.NET.Sdk" />
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Optimize>true</Optimize>
+  </PropertyGroup>
+  <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
+</Project>
