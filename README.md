@@ -8,7 +8,7 @@ Repositorio de prácticas, hitos y evaluaciones de la materia **Análisis de Alg
 |---|---|---|
 | H1 | Identificación y análisis del proceso lento | [Caso integrado – Tu proceso lento](hitos/h1/Caso%20integrado%20-%20Tu%20proceso%20lento.md) |
 | H2 | Análisis del proceso y estructuras de datos | [Inventario](hitos/h2/inventario.md) · [Estructura](hitos/h2/estructura.md) · [Mediciones](hitos/h2/medicion.md) |
-| H3 | Argumentación sobre el uso de grafos en el proceso analizado | [Argumentación](hitos/h3/argumentacion_grafos_proceso_lento.md) |
+| H3 | Análisis, argumentación y comparación de estrategias | [Argumentación sobre grafos](hitos/h3/argumentacion_grafos_proceso_lento.md) · [Implementación comparativa](hitos/h3/Comparacion.cs) · [Informe y resultados](hitos/h3/comparacion.md) |
 
 ## Prácticas
 
@@ -41,3 +41,4 @@ Repositorio de prácticas, hitos y evaluaciones de la materia **Análisis de Alg
 Los proyectos y programas incluidos permiten ejecutar las implementaciones y realizar las mediciones asociadas a las prácticas, hitos y evaluaciones.
 
 ---
+
