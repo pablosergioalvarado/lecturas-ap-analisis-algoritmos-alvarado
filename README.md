@@ -36,6 +36,10 @@ Repositorio de prácticas, hitos y evaluaciones de la materia **Análisis de Alg
 - [Mediciones](parcial2/medicion.md)
 - [Código](parcial2/examen-p2-B.cs)
 
+### Parcial Integrador
+
+- [Caso Integrador](integradora/README.md)
+
 ## Código de medición
 
 Los proyectos y programas incluidos permiten ejecutar las implementaciones y realizar las mediciones asociadas a las prácticas, hitos y evaluaciones.
