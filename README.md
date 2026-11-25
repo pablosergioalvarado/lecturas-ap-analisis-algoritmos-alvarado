@@ -1,5 +1,10 @@
 # Análisis de Algoritmos
 
+**Estudiante:** Pablo Alvarado  
+**Universidad:** Universidad Adventista de Bolivia (UAB)  
+**Asignatura:** Análisis de Algoritmos  
+**Gestión:** 2026
+
 Repositorio de prácticas, hitos y evaluaciones de la materia **Análisis de Algoritmos**. Este repositorio reúne el trabajo realizado durante el curso, incluyendo análisis de algoritmos, mediciones, selección de estructuras de datos y argumentación de soluciones.
 
 ## Hitos
