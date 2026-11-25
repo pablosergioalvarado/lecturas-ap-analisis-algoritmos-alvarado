@@ -1,3 +1,5 @@
+# Pablo Sergio Alvarado Gutierrez 
+
 ordenar una vez y utilizar búsqueda binaria
 
 Primero se ordena el listado utilizando un algoritmo de complejidad O(n log n). Para evitar duplicar los datos en memoria, se puede utilizar HeapSort, que ordena en el mismo arreglo.
