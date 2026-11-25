@@ -210,12 +210,7 @@ public static void Main()
         List<PeriodoLecturasApSim> periodos,
         List<FacLoteSim> lotesRecuperados)
     {
-        var listaLotes = new List<FacLoteSim>(lotesRecuperados.Count);
-        foreach (var lote in lotesRecuperados)
-        {
-            listaLotes.Add(lote);
-        }
-
+        
         var resultado = new List<PeriodoLecturasApDtoSim>(periodos.Count);
         foreach (var p in periodos)
         {
@@ -224,9 +219,9 @@ public static void Main()
             int mes = p.Mes;
 
             FacLoteSim? facLote = null;
-            for (int i = 0; i < listaLotes.Count; i++)
+            for (int i = 0; i < lotesRecuperados.Count; i++)
             {
-                var candidato = listaLotes[i];
+                var candidato = lotesRecuperados[i];
                 if (candidato.Idruta == idRuta && candidato.Anio == anio && candidato.Nroper == mes)
                 {
                     facLote = candidato;
